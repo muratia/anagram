@@ -1,0 +1,3 @@
+am\anagram\Application.class
+am\anagram\exception\NotEqualStringsException.class
+am\anagram\AnagramSolver.class
